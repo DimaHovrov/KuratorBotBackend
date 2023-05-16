@@ -1,0 +1,15 @@
+C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Persistence\bin\Debug\net6.0\Domain.dll
+C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
