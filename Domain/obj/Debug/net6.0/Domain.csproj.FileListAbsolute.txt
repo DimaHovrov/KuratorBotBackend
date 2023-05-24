@@ -10,3 +10,15 @@ C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Dom
 C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Domain\obj\Debug\net6.0\Domain.pdb
 C:\My files\Исходники проектов\VS\С#\Asp\RegistrationInBot\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\My files\Исходники проектов\VS\С#\Asp\KuratorBotBackend\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\My files\Исходники проектов\VS\С#\Asp\KuratorBotBackend\Domain\bin\Debug\net6.0\Domain.dll
+C:\My files\Исходники проектов\VS\С#\Asp\KuratorBotBackend\Domain\bin\Debug\net6.0\Domain.pdb
+C:\My files\Исходники проектов\VS\С#\Asp\KuratorBotBackend\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\My files\Исходники проектов\VS\С#\Asp\KuratorBotBackend\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\My files\Исходники проектов\VS\С#\Asp\KuratorBotBackend\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\My files\Исходники проектов\VS\С#\Asp\KuratorBotBackend\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\My files\Исходники проектов\VS\С#\Asp\KuratorBotBackend\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\My files\Исходники проектов\VS\С#\Asp\KuratorBotBackend\Domain\obj\Debug\net6.0\Domain.dll
+C:\My files\Исходники проектов\VS\С#\Asp\KuratorBotBackend\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\My files\Исходники проектов\VS\С#\Asp\KuratorBotBackend\Domain\obj\Debug\net6.0\Domain.pdb
+C:\My files\Исходники проектов\VS\С#\Asp\KuratorBotBackend\Domain\obj\Debug\net6.0\ref\Domain.dll
