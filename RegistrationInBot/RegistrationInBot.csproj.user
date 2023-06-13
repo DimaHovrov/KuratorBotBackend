@@ -5,5 +5,6 @@
   </PropertyGroup>
   <PropertyGroup>
     <ActiveDebugProfile>RegistrationInBot</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\My files\Исходники проектов\VS\С#\Asp\KuratorBotBackend\RegistrationInBot\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

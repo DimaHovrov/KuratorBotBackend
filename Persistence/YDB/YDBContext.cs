@@ -20,8 +20,8 @@ namespace Persistence.YDB
 
         public static async Task Run()
         {
-            var endpoint = Environment.GetEnvironmentVariable("YDB_ENDPOINT");
-            var database = Environment.GetEnvironmentVariable("YDB_DATABASE");
+            var endpoint = "grpcs://ydb.serverless.yandexcloud.net:2135";
+            var database = "/ru-central1/b1gujjgo5f2o8ovcu1b9/etn21441nb8nqeka0c4j";
             var credentialsProvider = await AuthUtils.MakeCredentialsFromEnv();
 
             var config = new DriverConfig(
@@ -139,6 +139,18 @@ namespace Persistence.YDB
 
             
             return link;
+        }
+
+        public async Task<string> GetVoteDataById(int voteId)
+        {
+            var query = $@"select Data as Data from Vote
+                           where id = {voteId}";
+            
+            var result = await CreateRequest(query);
+
+            if (result.Rows.Count == 0)
+                return "";
+            return (string)result.Rows[0]["Data"];
         }
 
         public async Task<UInt64> GetMaxIdInUsers()

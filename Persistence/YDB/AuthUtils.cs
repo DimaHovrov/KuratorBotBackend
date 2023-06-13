@@ -16,8 +16,7 @@ namespace Persistence.YDB
             try
             {
                 var rootPathProject = Directory.GetCurrentDirectory();
-                var saFileValue = Path.Combine(rootPathProject, Environment.GetEnvironmentVariable("SA_KEY_FILE"));
-                await Console.Out.WriteLineAsync(Environment.GetEnvironmentVariable("SA_KEY_FILE"));
+                var saFileValue = Path.Combine(rootPathProject, "Options/authorized_key.json");
                 if (!string.IsNullOrEmpty(saFileValue))
                 {
                     var saProvider = new ServiceAccountProvider(
